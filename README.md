@@ -211,151 +211,154 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 ### Tree Algorithms
 
-|  Q# | Title                 |                 Solution                 |
-| :-: | :-------------------- | :--------------------------------------: |
-|  01 | Subordinates          | [Open](./TreeAlgorithms/Q01/solution.md) |
-|  02 | Tree Matching         | [Open](./TreeAlgorithms/Q02/solution.md) |
-|  03 | Tree Diameter         | [Open](./TreeAlgorithms/Q03/solution.md) |
-|  04 | Tree Distances I      | [Open](./TreeAlgorithms/Q04/solution.md) |
-|  05 | Tree Distances II     | [Open](./TreeAlgorithms/Q05/solution.md) |
-|  06 | Company Queries I     | [Open](./TreeAlgorithms/Q06/solution.md) |
-|  07 | Company Queries II    | [Open](./TreeAlgorithms/Q07/solution.md) |
-|  08 | Distance Queries      | [Open](./TreeAlgorithms/Q08/solution.md) |
-|  09 | Counting Paths        | [Open](./TreeAlgorithms/Q09/solution.md) |
-|  10 | Subtree Queries       | [Open](./TreeAlgorithms/Q10/solution.md) |
-|  11 | Path Queries          | [Open](./TreeAlgorithms/Q11/solution.md) |
-|  12 | Path Queries II       | [Open](./TreeAlgorithms/Q12/solution.md) |
-|  13 | Distinct Colors       | [Open](./TreeAlgorithms/Q13/solution.md) |
-|  14 | Finding a Centroid    | [Open](./TreeAlgorithms/Q14/solution.md) |
-|  15 | Fixed-Length Paths I  | [Open](./TreeAlgorithms/Q15/solution.md) |
-|  16 | Fixed-Length Paths II | [Open](./TreeAlgorithms/Q16/solution.md) |
+|  Q# | Title                 | Task ID |                                            Solution                                            |
+| :-: | :-------------------- | :-----: | :--------------------------------------------------------------------------------------------: |
+|  01 | Subordinates          |   1674  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q01/solution.md) |
+|  02 | Tree Matching         |   1130  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q02/solution.md) |
+|  03 | Tree Diameter         |   1131  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q03/solution.md) |
+|  04 | Tree Distances I      |   1132  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q04/solution.md) |
+|  05 | Tree Distances II     |   1133  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q05/solution.md) |
+|  06 | Company Queries I     |   1687  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q06/solution.md) |
+|  07 | Company Queries II    |   1688  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q07/solution.md) |
+|  08 | Distance Queries      |   1135  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q08/solution.md) |
+|  09 | Counting Paths        |   1136  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q09/solution.md) |
+|  10 | Subtree Queries       |   1137  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q10/solution.md) |
+|  11 | Path Queries          |   1138  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q11/solution.md) |
+|  12 | Path Queries II       |   2134  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q12/solution.md) |
+|  13 | Distinct Colors       |   1139  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q13/solution.md) |
+|  14 | Finding a Centroid    |   2079  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q14/solution.md) |
+|  15 | Fixed-Length Paths I  |   2080  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q15/solution.md) |
+|  16 | Fixed-Length Paths II |   2081  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q16/solution.md) |
 
 ---
 
 ### Mathematics
 
-|  Q# | Title                      |                Solution               |
-| :-: | :------------------------- | :-----------------------------------: |
-|  01 | Josephus Queries           | [Open](./Mathematics/Q01/solution.md) |
-|  02 | Exponentiation             | [Open](./Mathematics/Q02/solution.md) |
-|  03 | Exponentiation II          | [Open](./Mathematics/Q03/solution.md) |
-|  04 | Counting Divisors          | [Open](./Mathematics/Q04/solution.md) |
-|  05 | Common Divisors            | [Open](./Mathematics/Q05/solution.md) |
-|  06 | Sum of Divisors            | [Open](./Mathematics/Q06/solution.md) |
-|  07 | Divisor Analysis           | [Open](./Mathematics/Q07/solution.md) |
-|  08 | Prime Multiples            | [Open](./Mathematics/Q08/solution.md) |
-|  09 | Counting Coprime Pairs     | [Open](./Mathematics/Q09/solution.md) |
-|  10 | Next Prime                 | [Open](./Mathematics/Q10/solution.md) |
-|  11 | Binomial Coefficients      | [Open](./Mathematics/Q11/solution.md) |
-|  12 | Creating Strings II        | [Open](./Mathematics/Q12/solution.md) |
-|  13 | Distributing Apples        | [Open](./Mathematics/Q13/solution.md) |
-|  14 | Christmas Party            | [Open](./Mathematics/Q14/solution.md) |
-|  15 | Permutation Order          | [Open](./Mathematics/Q15/solution.md) |
-|  16 | Permutation Rounds         | [Open](./Mathematics/Q16/solution.md) |
-|  17 | Bracket Sequences I        | [Open](./Mathematics/Q17/solution.md) |
-|  18 | Bracket Sequences II       | [Open](./Mathematics/Q18/solution.md) |
-|  19 | Counting Necklaces         | [Open](./Mathematics/Q19/solution.md) |
-|  20 | Counting Grids             | [Open](./Mathematics/Q20/solution.md) |
-|  21 | Fibonacci Numbers          | [Open](./Mathematics/Q21/solution.md) |
-|  22 | Throwing Dice              | [Open](./Mathematics/Q22/solution.md) |
-|  23 | Graph Paths I              | [Open](./Mathematics/Q23/solution.md) |
-|  24 | Graph Paths II             | [Open](./Mathematics/Q24/solution.md) |
-|  25 | System of Linear Equations | [Open](./Mathematics/Q25/solution.md) |
-|  26 | Sum of Four Squares        | [Open](./Mathematics/Q26/solution.md) |
-|  27 | Triangle Number Sums       | [Open](./Mathematics/Q27/solution.md) |
-|  28 | Dice Probability           | [Open](./Mathematics/Q28/solution.md) |
-|  29 | Moving Robots              | [Open](./Mathematics/Q29/solution.md) |
-|  30 | Candy Lottery              | [Open](./Mathematics/Q30/solution.md) |
-|  31 | Inversion Probability      | [Open](./Mathematics/Q31/solution.md) |
-|  32 | Stick Game                 | [Open](./Mathematics/Q32/solution.md) |
-|  33 | Nim Game I                 | [Open](./Mathematics/Q33/solution.md) |
-|  34 | Nim Game II                | [Open](./Mathematics/Q34/solution.md) |
-|  35 | Stair Game                 | [Open](./Mathematics/Q35/solution.md) |
-|  36 | Grundy’s Game              | [Open](./Mathematics/Q36/solution.md) |
-|  37 | Another Game               | [Open](./Mathematics/Q37/solution.md) |
+|  Q# | Title                      | Task ID |                                           Solution                                          |
+| :-: | :------------------------- | :-----: | :-----------------------------------------------------------------------------------------: |
+|  01 | Josephus Queries           |   2164  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q01/solution.md) |
+|  02 | Exponentiation             |   1095  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q02/solution.md) |
+|  03 | Exponentiation II          |   1712  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q03/solution.md) |
+|  04 | Counting Divisors          |   1713  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q04/solution.md) |
+|  05 | Common Divisors            |   1081  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q05/solution.md) |
+|  06 | Sum of Divisors            |   1082  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q06/solution.md) |
+|  07 | Divisor Analysis           |   2182  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q07/solution.md) |
+|  08 | Prime Multiples            |   2185  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q08/solution.md) |
+|  09 | Counting Coprime Pairs     |   2417  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q09/solution.md) |
+|  10 | Next Prime                 |   2061  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q10/solution.md) |
+|  11 | Binomial Coefficients      |   1079  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q11/solution.md) |
+|  12 | Creating Strings II        |   1715  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q12/solution.md) |
+|  13 | Distributing Apples        |   1716  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q13/solution.md) |
+|  14 | Christmas Party            |   1717  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q14/solution.md) |
+|  15 | Permutation Order          |   3397  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q15/solution.md) |
+|  16 | Permutation Rounds         |   3398  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q16/solution.md) |
+|  17 | Bracket Sequences I        |   2064  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q17/solution.md) |
+|  18 | Bracket Sequences II       |   2187  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q18/solution.md) |
+|  19 | Counting Necklaces         |   2209  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q19/solution.md) |
+|  20 | Counting Grids             |   2210  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q20/solution.md) |
+|  21 | Fibonacci Numbers          |   1722  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q21/solution.md) |
+|  22 | Throwing Dice              |   1096  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q22/solution.md) |
+|  23 | Graph Paths I              |   1723  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q23/solution.md) |
+|  24 | Graph Paths II             |   1724  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q24/solution.md) |
+|  25 | System of Linear Equations |   3154  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q25/solution.md) |
+|  26 | Sum of Four Squares        |   2416  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q26/solution.md) |
+|  27 | Triangle Number Sums       |   3406  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q27/solution.md) |
+|  28 | Dice Probability           |   1725  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q28/solution.md) |
+|  29 | Moving Robots              |   1726  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q29/solution.md) |
+|  30 | Candy Lottery              |   1727  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q30/solution.md) |
+|  31 | Inversion Probability      |   1728  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q31/solution.md) |
+|  32 | Stick Game                 |   1729  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q32/solution.md) |
+|  33 | Nim Game I                 |   1730  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q33/solution.md) |
+|  34 | Nim Game II                |   1098  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q34/solution.md) |
+|  35 | Stair Game                 |   1099  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q35/solution.md) |
+|  36 | Grundy’s Game              |   1707  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q36/solution.md) |
+|  37 | Another Game               |   1706  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q37/solution.md) |
+
 
 ---
 
 ### String Algorithms
 
-|  Q# | Title                  |                  Solution                  |
-| :-: | :--------------------- | :----------------------------------------: |
-|  01 | Word Combinations      | [Open](./StringAlgorithms/Q01/solution.md) |
-|  02 | String Matching        | [Open](./StringAlgorithms/Q02/solution.md) |
-|  03 | Finding Borders        | [Open](./StringAlgorithms/Q03/solution.md) |
-|  04 | Finding Periods        | [Open](./StringAlgorithms/Q04/solution.md) |
-|  05 | Minimal Rotation       | [Open](./StringAlgorithms/Q05/solution.md) |
-|  06 | Longest Palindrome     | [Open](./StringAlgorithms/Q06/solution.md) |
-|  07 | All Palindromes        | [Open](./StringAlgorithms/Q07/solution.md) |
-|  08 | Required Substring     | [Open](./StringAlgorithms/Q08/solution.md) |
-|  09 | Palindrome Queries     | [Open](./StringAlgorithms/Q09/solution.md) |
-|  10 | Finding Patterns       | [Open](./StringAlgorithms/Q10/solution.md) |
-|  11 | Counting Patterns      | [Open](./StringAlgorithms/Q11/solution.md) |
-|  12 | Pattern Positions      | [Open](./StringAlgorithms/Q12/solution.md) |
-|  13 | Distinct Substrings    | [Open](./StringAlgorithms/Q13/solution.md) |
-|  14 | Distinct Subsequences  | [Open](./StringAlgorithms/Q14/solution.md) |
-|  15 | Repeating Substring    | [Open](./StringAlgorithms/Q15/solution.md) |
-|  16 | String Functions       | [Open](./StringAlgorithms/Q16/solution.md) |
-|  17 | Inverse Suffix Array   | [Open](./StringAlgorithms/Q17/solution.md) |
-|  18 | String Transform       | [Open](./StringAlgorithms/Q18/solution.md) |
-|  19 | Substring Order I      | [Open](./StringAlgorithms/Q19/solution.md) |
-|  20 | Substring Order II     | [Open](./StringAlgorithms/Q20/solution.md) |
-|  21 | Substring Distribution | [Open](./StringAlgorithms/Q21/solution.md) |
+|  Q# | Title                  | Task ID |                                             Solution                                             |
+| :-: | :--------------------- | :-----: | :----------------------------------------------------------------------------------------------: |
+|  01 | Word Combinations      |   1731  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q01/solution.md) |
+|  02 | String Matching        |   1753  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q02/solution.md) |
+|  03 | Finding Borders        |   1732  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q03/solution.md) |
+|  04 | Finding Periods        |   1733  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q04/solution.md) |
+|  05 | Minimal Rotation       |   1110  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q05/solution.md) |
+|  06 | Longest Palindrome     |   1111  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q06/solution.md) |
+|  07 | All Palindromes        |   3138  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q07/solution.md) |
+|  08 | Required Substring     |   1112  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q08/solution.md) |
+|  09 | Palindrome Queries     |   2420  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q09/solution.md) |
+|  10 | Finding Patterns       |   1754  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q10/solution.md) |
+|  11 | Counting Patterns      |   2103  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q11/solution.md) |
+|  12 | Pattern Positions      |   2104  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q12/solution.md) |
+|  13 | Distinct Substrings    |   2105  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q13/solution.md) |
+|  14 | Distinct Subsequences  |   1149  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q14/solution.md) |
+|  15 | Repeating Substring    |   2106  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q15/solution.md) |
+|  16 | String Functions       |   2107  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q16/solution.md) |
+|  17 | Inverse Suffix Array   |   3225  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q17/solution.md) |
+|  18 | String Transform       |   1113  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q18/solution.md) |
+|  19 | Substring Order I      |   2108  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q19/solution.md) |
+|  20 | Substring Order II     |   2109  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q20/solution.md) |
+|  21 | Substring Distribution |   2110  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q21/solution.md) |
 
 ---
 
 ### Geometry
 
-|  Q# | Title                       |              Solution              |
-| :-: | :-------------------------- | :--------------------------------: |
-|  01 | Point Location Test         | [Open](./Geometry/Q01/solution.md) |
-|  02 | Line Segment Intersection   | [Open](./Geometry/Q02/solution.md) |
-|  03 | Polygon Area                | [Open](./Geometry/Q03/solution.md) |
-|  04 | Point in Polygon            | [Open](./Geometry/Q04/solution.md) |
-|  05 | Polygon Lattice Points      | [Open](./Geometry/Q05/solution.md) |
-|  06 | Minimum Euclidean Distance  | [Open](./Geometry/Q06/solution.md) |
-|  07 | Convex Hull                 | [Open](./Geometry/Q07/solution.md) |
-|  08 | Maximum Manhattan Distances | [Open](./Geometry/Q08/solution.md) |
-|  09 | All Manhattan Distances     | [Open](./Geometry/Q09/solution.md) |
-|  10 | Intersection Points         | [Open](./Geometry/Q10/solution.md) |
-|  11 | Line Segments Trace I       | [Open](./Geometry/Q11/solution.md) |
-|  12 | Line Segments Trace II      | [Open](./Geometry/Q12/solution.md) |
-|  13 | Lines and Queries I         | [Open](./Geometry/Q13/solution.md) |
-|  14 | Lines and Queries II        | [Open](./Geometry/Q14/solution.md) |
-|  15 | Area of Rectangles          | [Open](./Geometry/Q15/solution.md) |
-|  16 | Robot Path                  | [Open](./Geometry/Q16/solution.md) |
+|  Q# | Title                       | Task ID |                                         Solution                                         |
+| :-: | :-------------------------- | :-----: | :--------------------------------------------------------------------------------------: |
+|  01 | Point Location Test         |   2189  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q01/solution.md) |
+|  02 | Line Segment Intersection   |   2190  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q02/solution.md) |
+|  03 | Polygon Area                |   2191  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q03/solution.md) |
+|  04 | Point in Polygon            |   2192  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q04/solution.md) |
+|  05 | Polygon Lattice Points      |   2193  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q05/solution.md) |
+|  06 | Minimum Euclidean Distance  |   2194  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q06/solution.md) |
+|  07 | Convex Hull                 |   2195  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q07/solution.md) |
+|  08 | Maximum Manhattan Distances |   2196  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q08/solution.md) |
+|  09 | All Manhattan Distances     |   3411  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q09/solution.md) |
+|  10 | Intersection Points         |   2197  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q10/solution.md) |
+|  11 | Line Segments Trace I       |   2198  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q11/solution.md) |
+|  12 | Line Segments Trace II      |   2199  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q12/solution.md) |
+|  13 | Lines and Queries I         |   2211  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q13/solution.md) |
+|  14 | Lines and Queries II        |   2212  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q14/solution.md) |
+|  15 | Area of Rectangles          |   1741  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q15/solution.md) |
+|  16 | Robot Path                  |   1742  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q16/solution.md) |
+
 
 ---
 
 ### Advanced Techniques
 
-|  Q# | Title                |                   Solution                   |
-| :-: | :------------------- | :------------------------------------------: |
-|  01 | Meet in the Middle   | [Open](./AdvancedTechniques/Q01/solution.md) |
-|  02 | Hamming Distance     | [Open](./AdvancedTechniques/Q02/solution.md) |
-|  03 | Corner Subgrid Check | [Open](./AdvancedTechniques/Q03/solution.md) |
-|  04 | Corner Subgrid Count | [Open](./AdvancedTechniques/Q04/solution.md) |
-|  05 | Reachable Nodes      | [Open](./AdvancedTechniques/Q05/solution.md) |
-|  06 | Reachability Queries | [Open](./AdvancedTechniques/Q06/solution.md) |
-|  07 | Cut and Paste        | [Open](./AdvancedTechniques/Q07/solution.md) |
-|  08 | Substring Reversals  | [Open](./AdvancedTechniques/Q08/solution.md) |
-|  09 | Reversals and Sums   | [Open](./AdvancedTechniques/Q09/solution.md) |
-|  10 | Necessary Roads      | [Open](./AdvancedTechniques/Q10/solution.md) |
-|  11 | Necessary Cities     | [Open](./AdvancedTechniques/Q11/solution.md) |
-|  12 | Eulerian Subgraphs   | [Open](./AdvancedTechniques/Q12/solution.md) |
-|  13 | Monster Game I       | [Open](./AdvancedTechniques/Q13/solution.md) |
-|  14 | Monster Game II      | [Open](./AdvancedTechniques/Q14/solution.md) |
-|  15 | Subarray Squares     | [Open](./AdvancedTechniques/Q15/solution.md) |
-|  16 | Houses and Schools   | [Open](./AdvancedTechniques/Q16/solution.md) |
-|  17 | Knuth Division       | [Open](./AdvancedTechniques/Q17/solution.md) |
-|  18 | Apples and Bananas   | [Open](./AdvancedTechniques/Q18/solution.md) |
-|  19 | One Bit Positions    | [Open](./AdvancedTechniques/Q19/solution.md) |
-|  20 | Signal Processing    | [Open](./AdvancedTechniques/Q20/solution.md) |
-|  21 | New Roads Queries    | [Open](./AdvancedTechniques/Q21/solution.md) |
-|  22 | Dynamic Connectivity | [Open](./AdvancedTechniques/Q22/solution.md) |
-|  23 | Parcel Delivery      | [Open](./AdvancedTechniques/Q23/solution.md) |
-|  24 | Task Assignment      | [Open](./AdvancedTechniques/Q24/solution.md) |
-|  25 | Distinct Routes II   | [Open](./AdvancedTechniques/Q25/solution.md) |
+|  Q# | Title                | Task ID |                                              Solution                                              |
+| :-: | :------------------- | :-----: | :------------------------------------------------------------------------------------------------: |
+|  01 | Meet in the Middle   |   1628  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q01/solution.md) |
+|  02 | Hamming Distance     |   2136  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q02/solution.md) |
+|  03 | Corner Subgrid Check |   3360  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q03/solution.md) |
+|  04 | Corner Subgrid Count |   2137  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q04/solution.md) |
+|  05 | Reachable Nodes      |   2138  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q05/solution.md) |
+|  06 | Reachability Queries |   2143  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q06/solution.md) |
+|  07 | Cut and Paste        |   2072  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q07/solution.md) |
+|  08 | Substring Reversals  |   2073  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q08/solution.md) |
+|  09 | Reversals and Sums   |   2074  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q09/solution.md) |
+|  10 | Necessary Roads      |   2076  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q10/solution.md) |
+|  11 | Necessary Cities     |   2077  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q11/solution.md) |
+|  12 | Eulerian Subgraphs   |   2078  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q12/solution.md) |
+|  13 | Monster Game I       |   2084  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q13/solution.md) |
+|  14 | Monster Game II      |   2085  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q14/solution.md) |
+|  15 | Subarray Squares     |   2086  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q15/solution.md) |
+|  16 | Houses and Schools   |   2087  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q16/solution.md) |
+|  17 | Knuth Division       |   2088  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q17/solution.md) |
+|  18 | Apples and Bananas   |   2111  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q18/solution.md) |
+|  19 | One Bit Positions    |   2112  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q19/solution.md) |
+|  20 | Signal Processing    |   2113  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q20/solution.md) |
+|  21 | New Roads Queries    |   2101  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q21/solution.md) |
+|  22 | Dynamic Connectivity |   2133  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q22/solution.md) |
+|  23 | Parcel Delivery      |   2121  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q23/solution.md) |
+|  24 | Task Assignment      |   2129  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q24/solution.md) |
+|  25 | Distinct Routes II   |   2130  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q25/solution.md) |
+
 
 ---
 
