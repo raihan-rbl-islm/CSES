@@ -364,65 +364,69 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 ### Sliding Window Problems
 
-|  Q# | Title                          |                 Solution                |
-| :-: | :----------------------------- | :-------------------------------------: |
-|  01 | Sliding Window Sum             | [Open](./SlidingWindow/Q01/solution.md) |
-|  02 | Sliding Window Minimum         | [Open](./SlidingWindow/Q02/solution.md) |
-|  03 | Sliding Window Xor             | [Open](./SlidingWindow/Q03/solution.md) |
-|  04 | Sliding Window Or              | [Open](./SlidingWindow/Q04/solution.md) |
-|  05 | Sliding Window Distinct Values | [Open](./SlidingWindow/Q05/solution.md) |
-|  06 | Sliding Window Mode            | [Open](./SlidingWindow/Q06/solution.md) |
-|  07 | Sliding Window Mex             | [Open](./SlidingWindow/Q07/solution.md) |
-|  08 | Sliding Window Median          | [Open](./SlidingWindow/Q08/solution.md) |
-|  09 | Sliding Window Cost            | [Open](./SlidingWindow/Q09/solution.md) |
-|  10 | Sliding Window Inversions      | [Open](./SlidingWindow/Q10/solution.md) |
-|  11 | Sliding Window Advertisement   | [Open](./SlidingWindow/Q11/solution.md) |
+|  Q# | Title                          | Task ID |                                            Solution                                           |
+| :-: | :----------------------------- | :-----: | :-------------------------------------------------------------------------------------------: |
+|  01 | Sliding Window Sum             |   3220  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q01/solution.md) |
+|  02 | Sliding Window Minimum         |   3221  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q02/solution.md) |
+|  03 | Sliding Window Xor             |   3426  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q03/solution.md) |
+|  04 | Sliding Window Or              |   3405  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q04/solution.md) |
+|  05 | Sliding Window Distinct Values |   3222  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q05/solution.md) |
+|  06 | Sliding Window Mode            |   3224  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q06/solution.md) |
+|  07 | Sliding Window Mex             |   3219  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q07/solution.md) |
+|  08 | Sliding Window Median          |   1076  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q08/solution.md) |
+|  09 | Sliding Window Cost            |   1077  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q09/solution.md) |
+|  10 | Sliding Window Inversions      |   3223  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q10/solution.md) |
+|  11 | Sliding Window Advertisement   |   3227  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q11/solution.md) |
+
 
 ---
 
 ### Interactive Problems
 
-|  Q# | Title                   |                Solution               |
-| :-: | :---------------------- | :-----------------------------------: |
-|  01 | Hidden Integer          | [Open](./Interactive/Q01/solution.md) |
-|  02 | Hidden Permutation      | [Open](./Interactive/Q02/solution.md) |
-|  03 | K-th Highest Score      | [Open](./Interactive/Q03/solution.md) |
-|  04 | Permuted Binary Strings | [Open](./Interactive/Q04/solution.md) |
-|  05 | Colored Chairs          | [Open](./Interactive/Q05/solution.md) |
-|  06 | Inversion Sorting       | [Open](./Interactive/Q06/solution.md) |
+|  Q# | Title                   | Task ID |                                           Solution                                          |
+| :-: | :---------------------- | :-----: | :-----------------------------------------------------------------------------------------: |
+|  01 | Hidden Integer          |   3112  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q01/solution.md) |
+|  02 | Hidden Permutation      |   3139  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q02/solution.md) |
+|  03 | K-th Highest Score      |   3305  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q03/solution.md) |
+|  04 | Permuted Binary Strings |   3228  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q04/solution.md) |
+|  05 | Colored Chairs          |   3273  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q05/solution.md) |
+|  06 | Inversion Sorting       |   3140  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q06/solution.md) |
+
 
 ---
 
 ### Bitwise Operations
 
-|  Q# | Title                 |              Solution             |
-| :-: | :-------------------- | :-------------------------------: |
-|  01 | Counting Bits         | [Open](./Bitwise/Q01/solution.md) |
-|  02 | Maximum Xor Subarray  | [Open](./Bitwise/Q02/solution.md) |
-|  03 | Maximum Xor Subset    | [Open](./Bitwise/Q03/solution.md) |
-|  04 | Number of Subset Xors | [Open](./Bitwise/Q04/solution.md) |
-|  05 | K Subset Xors         | [Open](./Bitwise/Q05/solution.md) |
-|  06 | All Subarray Xors     | [Open](./Bitwise/Q06/solution.md) |
-|  07 | Xor Pyramid Peak      | [Open](./Bitwise/Q07/solution.md) |
-|  08 | Xor Pyramid Diagonal  | [Open](./Bitwise/Q08/solution.md) |
-|  09 | Xor Pyramid Row       | [Open](./Bitwise/Q09/solution.md) |
-|  10 | SOS Bit Problem       | [Open](./Bitwise/Q10/solution.md) |
-|  11 | And Subset Count      | [Open](./Bitwise/Q11/solution.md) |
+|  Q# | Title                 | Task ID |                                         Solution                                        |
+| :-: | :-------------------- | :-----: | :-------------------------------------------------------------------------------------: |
+|  01 | Counting Bits         |   1146  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q01/solution.md) |
+|  02 | Maximum Xor Subarray  |   1655  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q02/solution.md) |
+|  03 | Maximum Xor Subset    |   3191  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q03/solution.md) |
+|  04 | Number of Subset Xors |   3211  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q04/solution.md) |
+|  05 | K Subset Xors         |   3192  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q05/solution.md) |
+|  06 | All Subarray Xors     |   3233  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q06/solution.md) |
+|  07 | Xor Pyramid Peak      |   2419  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q07/solution.md) |
+|  08 | Xor Pyramid Diagonal  |   3194  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q08/solution.md) |
+|  09 | Xor Pyramid Row       |   3195  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q09/solution.md) |
+|  10 | SOS Bit Problem       |   1654  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q10/solution.md) |
+|  11 | And Subset Count      |   3141  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q11/solution.md) |
+
 
 ---
 
 ### Construction Problems
 
-|  Q# | Title                  |                Solution                |
-| :-: | :--------------------- | :------------------------------------: |
-|  01 | Inverse Inversions     | [Open](./Construction/Q01/solution.md) |
-|  02 | Monotone Subsequences  | [Open](./Construction/Q02/solution.md) |
-|  03 | Third Permutation      | [Open](./Construction/Q03/solution.md) |
-|  04 | Permutation Prime Sums | [Open](./Construction/Q04/solution.md) |
-|  05 | Chess Tournament       | [Open](./Construction/Q05/solution.md) |
-|  06 | Distinct Sums Grid     | [Open](./Construction/Q06/solution.md) |
-|  07 | Filling Trominos       | [Open](./Construction/Q07/solution.md) |
-|  08 | Grid Path Construction | [Open](./Construction/Q08/solution.md) |
+|  Q# | Title                  | Task ID |                                           Solution                                           |
+| :-: | :--------------------- | :-----: | :------------------------------------------------------------------------------------------: |
+|  01 | Inverse Inversions     |   2214  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q01/solution.md) |
+|  02 | Monotone Subsequences  |   2215  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q02/solution.md) |
+|  03 | Third Permutation      |   3422  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q03/solution.md) |
+|  04 | Permutation Prime Sums |   3423  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q04/solution.md) |
+|  05 | Chess Tournament       |   1697  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q05/solution.md) |
+|  06 | Distinct Sums Grid     |   3424  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q06/solution.md) |
+|  07 | Filling Trominos       |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q07/solution.md) |
+|  08 | Grid Path Construction |   2418  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q08/solution.md) |
+
 
 ---
 
