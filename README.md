@@ -432,135 +432,139 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 ### Advanced Graph Problems
 
-|  Q# | Title                     |                 Solution                 |
-| :-: | :------------------------ | :--------------------------------------: |
-|  01 | Nearest Shops             | [Open](./AdvancedGraphs/Q01/solution.md) |
-|  02 | Prüfer Code               | [Open](./AdvancedGraphs/Q02/solution.md) |
-|  03 | Tree Traversals           | [Open](./AdvancedGraphs/Q03/solution.md) |
-|  04 | Course Schedule II        | [Open](./AdvancedGraphs/Q04/solution.md) |
-|  05 | Acyclic Graph Edges       | [Open](./AdvancedGraphs/Q05/solution.md) |
-|  06 | Strongly Connected Edges  | [Open](./AdvancedGraphs/Q06/solution.md) |
-|  07 | Even Outdegree Edges      | [Open](./AdvancedGraphs/Q07/solution.md) |
-|  08 | Graph Girth               | [Open](./AdvancedGraphs/Q08/solution.md) |
-|  09 | Fixed Length Walk Queries | [Open](./AdvancedGraphs/Q09/solution.md) |
-|  10 | Transfer Speeds Sum       | [Open](./AdvancedGraphs/Q10/solution.md) |
-|  11 | MST Edge Check            | [Open](./AdvancedGraphs/Q11/solution.md) |
-|  12 | MST Edge Set Check        | [Open](./AdvancedGraphs/Q12/solution.md) |
-|  13 | MST Edge Cost             | [Open](./AdvancedGraphs/Q13/solution.md) |
-|  14 | Network Breakdown         | [Open](./AdvancedGraphs/Q14/solution.md) |
-|  15 | Tree Coin Collecting I    | [Open](./AdvancedGraphs/Q15/solution.md) |
-|  16 | Tree Coin Collecting II   | [Open](./AdvancedGraphs/Q16/solution.md) |
-|  17 | Tree Isomorphism I        | [Open](./AdvancedGraphs/Q17/solution.md) |
-|  18 | Tree Isomorphism II       | [Open](./AdvancedGraphs/Q18/solution.md) |
-|  19 | Flight Route Requests     | [Open](./AdvancedGraphs/Q19/solution.md) |
-|  20 | Critical Cities           | [Open](./AdvancedGraphs/Q20/solution.md) |
-|  21 | Visiting Cities           | [Open](./AdvancedGraphs/Q21/solution.md) |
-|  22 | Graph Coloring            | [Open](./AdvancedGraphs/Q22/solution.md) |
-|  23 | Bus Companies             | [Open](./AdvancedGraphs/Q23/solution.md) |
-|  24 | Split into Two Paths      | [Open](./AdvancedGraphs/Q24/solution.md) |
-|  25 | Network Renovation        | [Open](./AdvancedGraphs/Q25/solution.md) |
-|  26 | Forbidden Cities          | [Open](./AdvancedGraphs/Q26/solution.md) |
-|  27 | Creating Offices          | [Open](./AdvancedGraphs/Q27/solution.md) |
-|  28 | New Flight Routes         | [Open](./AdvancedGraphs/Q28/solution.md) |
+|  Q# | Title                     | Task ID |                                            Solution                                            |
+| :-: | :------------------------ | :-----: | :--------------------------------------------------------------------------------------------: |
+|  01 | Nearest Shops             |   3303  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q01/solution.md) |
+|  02 | Prüfer Code               |   1134  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q02/solution.md) |
+|  03 | Tree Traversals           |   1702  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q03/solution.md) |
+|  04 | Course Schedule II        |   1757  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q04/solution.md) |
+|  05 | Acyclic Graph Edges       |   1756  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q05/solution.md) |
+|  06 | Strongly Connected Edges  |   2177  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q06/solution.md) |
+|  07 | Even Outdegree Edges      |   2179  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q07/solution.md) |
+|  08 | Graph Girth               |   1707  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q08/solution.md) |
+|  09 | Fixed Length Walk Queries |   3357  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q09/solution.md) |
+|  10 | Transfer Speeds Sum       |   3405  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q10/solution.md) |
+|  11 | MST Edge Check            |   3406  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q11/solution.md) |
+|  12 | MST Edge Set Check        |   3408  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q12/solution.md) |
+|  13 | MST Edge Cost             |   3409  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q13/solution.md) |
+|  14 | Network Breakdown         |   1677  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q14/solution.md) |
+|  15 | Tree Coin Collecting I    |   3114  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q15/solution.md) |
+|  16 | Tree Coin Collecting II   |   3149  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q16/solution.md) |
+|  17 | Tree Isomorphism I        |   1709  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q17/solution.md) |
+|  18 | Tree Isomorphism II       |   1708  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q18/solution.md) |
+|  19 | Flight Route Requests     |   1699  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q19/solution.md) |
+|  20 | Critical Cities           |   1703  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q20/solution.md) |
+|  21 | Visiting Cities           |   1203  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q21/solution.md) |
+|  22 | Graph Coloring            |   3308  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q22/solution.md) |
+|  23 | Bus Companies             |   3158  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q23/solution.md) |
+|  24 | Split into Two Paths      |   3358  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q24/solution.md) |
+|  25 | Network Renovation        |   1704  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q25/solution.md) |
+|  26 | Forbidden Cities          |   1705  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q26/solution.md) |
+|  27 | Creating Offices          |   1752  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q27/solution.md) |
+|  28 | New Flight Routes         |   1685  | [![Open](https://img.shields.io-badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q28/solution.md) |
+
 
 ---
 
 ### Counting Problems
 
-|  Q# | Title                           |              Solution              |
-| :-: | :------------------------------ | :--------------------------------: |
-|  01 | Filled Subgrid Count I          | [Open](./Counting/Q01/solution.md) |
-|  02 | Filled Subgrid Count II         | [Open](./Counting/Q02/solution.md) |
-|  03 | All Letter Subgrid Count I      | [Open](./Counting/Q03/solution.md) |
-|  04 | All Letter Subgrid Count II     | [Open](./Counting/Q04/solution.md) |
-|  05 | Border Subgrid Count I          | [Open](./Counting/Q05/solution.md) |
-|  06 | Border Subgrid Count II         | [Open](./Counting/Q06/solution.md) |
-|  07 | Raab Game II                    | [Open](./Counting/Q07/solution.md) |
-|  08 | Empty String                    | [Open](./Counting/Q08/solution.md) |
-|  09 | Permutation Inversions          | [Open](./Counting/Q09/solution.md) |
-|  10 | Counting Bishops                | [Open](./Counting/Q10/solution.md) |
-|  11 | Counting Sequences              | [Open](./Counting/Q11/solution.md) |
-|  12 | Grid Paths II                   | [Open](./Counting/Q12/solution.md) |
-|  13 | Counting Permutations           | [Open](./Counting/Q13/solution.md) |
-|  14 | Grid Completion                 | [Open](./Counting/Q14/solution.md) |
-|  15 | Counting Reorders               | [Open](./Counting/Q15/solution.md) |
-|  16 | Tournament Graph Distribution   | [Open](./Counting/Q16/solution.md) |
-|  17 | Collecting Numbers Distribution | [Open](./Counting/Q17/solution.md) |
-|  18 | Functional Graph Distribution   | [Open](./Counting/Q18/solution.md) |
+|  Q# | Title                           | Task ID |                                         Solution                                         |
+| :-: | :------------------------------ | :-----: | :--------------------------------------------------------------------------------------: |
+|  01 | Filled Subgrid Count I          |   3413  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q01/solution.md) |
+|  02 | Filled Subgrid Count II         |   3414  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q02/solution.md) |
+|  03 | All Letter Subgrid Count I      |   3415  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q03/solution.md) |
+|  04 | All Letter Subgrid Count II     |   3416  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q04/solution.md) |
+|  05 | Border Subgrid Count I          |   3417  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q05/solution.md) |
+|  06 | Border Subgrid Count II         |   3418  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q06/solution.md) |
+|  07 | Raab Game II                    |   3400  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q07/solution.md) |
+|  08 | Empty String                    |   1080  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q08/solution.md) |
+|  09 | Permutation Inversions          |   2229  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q09/solution.md) |
+|  10 | Counting Bishops                |   2176  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q10/solution.md) |
+|  11 | Counting Sequences              |   2228  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q11/solution.md) |
+|  12 | Grid Paths II                   |   1078  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q12/solution.md) |
+|  13 | Counting Permutations           |   1075  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q13/solution.md) |
+|  14 | Grid Completion                 |   2429  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q14/solution.md) |
+|  15 | Counting Reorders               |   2421  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q15/solution.md) |
+|  16 | Tournament Graph Distribution   |   3232  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q16/solution.md) |
+|  17 | Collecting Numbers Distribution |   3157  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q17/solution.md) |
+|  18 | Functional Graph Distribution   |   2415  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q18/solution.md) |
+
 
 ---
 
 ### Additional Problems I
 
-|  Q# | Title                      |                Solution               |
-| :-: | :------------------------- | :-----------------------------------: |
-|  01 | Shortest Subsequence       | [Open](./AdditionalI/Q01/solution.md) |
-|  02 | Distinct Values Sum        | [Open](./AdditionalI/Q02/solution.md) |
-|  03 | Distinct Values Splits     | [Open](./AdditionalI/Q03/solution.md) |
-|  04 | Swap Game                  | [Open](./AdditionalI/Q04/solution.md) |
-|  05 | Beautiful Permutation II   | [Open](./AdditionalI/Q05/solution.md) |
-|  06 | Multiplication Table       | [Open](./AdditionalI/Q06/solution.md) |
-|  07 | Bubble Sort Rounds I       | [Open](./AdditionalI/Q07/solution.md) |
-|  08 | Bubble Sort Rounds II      | [Open](./AdditionalI/Q08/solution.md) |
-|  09 | Nearest Campsites I        | [Open](./AdditionalI/Q09/solution.md) |
-|  10 | Nearest Campsites II       | [Open](./AdditionalI/Q10/solution.md) |
-|  11 | Advertisement              | [Open](./AdditionalI/Q11/solution.md) |
-|  12 | Special Substrings         | [Open](./AdditionalI/Q12/solution.md) |
-|  13 | Counting LCM Arrays        | [Open](./AdditionalI/Q13/solution.md) |
-|  14 | Square Subsets             | [Open](./AdditionalI/Q14/solution.md) |
-|  15 | Subarray Sum Constraints   | [Open](./AdditionalI/Q15/solution.md) |
-|  16 | Water Containers Moves     | [Open](./AdditionalI/Q16/solution.md) |
-|  17 | Water Containers Queries   | [Open](./AdditionalI/Q17/solution.md) |
-|  18 | Stack Weights              | [Open](./AdditionalI/Q18/solution.md) |
-|  19 | Maximum Average Subarrays  | [Open](./AdditionalI/Q19/solution.md) |
-|  20 | Subsets with Fixed Average | [Open](./AdditionalI/Q20/solution.md) |
-|  21 | Two Array Average          | [Open](./AdditionalI/Q21/solution.md) |
-|  22 | Pyramid Array              | [Open](./AdditionalI/Q22/solution.md) |
-|  23 | Permutation Subsequence    | [Open](./AdditionalI/Q23/solution.md) |
-|  24 | Bit Inversions             | [Open](./AdditionalI/Q24/solution.md) |
-|  25 | Writing Numbers            | [Open](./AdditionalI/Q25/solution.md) |
-|  26 | Letter Pair Move Game      | [Open](./AdditionalI/Q26/solution.md) |
-|  27 | Maximum Building I         | [Open](./AdditionalI/Q27/solution.md) |
-|  28 | Sorting Methods            | [Open](./AdditionalI/Q28/solution.md) |
-|  29 | Cyclic Array               | [Open](./AdditionalI/Q29/solution.md) |
-|  30 | List of Sums               | [Open](./AdditionalI/Q30/solution.md) |
+|  Q# | Title                      | Task ID |                                           Solution                                          |
+| :-: | :------------------------- | :-----: | :-----------------------------------------------------------------------------------------: |
+|  01 | Shortest Subsequence       |   1087  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q01/solution.md) |
+|  02 | Distinct Values Sum        |   3150  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q02/solution.md) |
+|  03 | Distinct Values Splits     |   3190  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q03/solution.md) |
+|  04 | Swap Game                  |   1670  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q04/solution.md) |
+|  05 | Beautiful Permutation II   |   3175  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q05/solution.md) |
+|  06 | Multiplication Table       |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q06/solution.md) |
+|  07 | Bubble Sort Rounds I       |   3151  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q07/solution.md) |
+|  08 | Bubble Sort Rounds II      |   3152  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q08/solution.md) |
+|  09 | Nearest Campsites I        |   3306  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q09/solution.md) |
+|  10 | Nearest Campsites II       |   3307  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q10/solution.md) |
+|  11 | Advertisement              |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q11/solution.md) |
+|  12 | Special Substrings         |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q12/solution.md) |
+|  13 | Counting LCM Arrays        |   3169  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q13/solution.md) |
+|  14 | Square Subsets             |   3193  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q14/solution.md) |
+|  15 | Subarray Sum Constraints   |   3294  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q15/solution.md) |
+|  16 | Water Containers Moves     |   3213  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q16/solution.md) |
+|  17 | Water Containers Queries   |   3214  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q17/solution.md) |
+|  18 | Stack Weights              |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q18/solution.md) |
+|  19 | Maximum Average Subarrays  |   3301  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q19/solution.md) |
+|  20 | Subsets with Fixed Average |   3302  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q20/solution.md) |
+|  21 | Two Array Average          |   3361  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q21/solution.md) |
+|  22 | Pyramid Array              |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q22/solution.md) |
+|  23 | Permutation Subsequence    |   3404  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q23/solution.md) |
+|  24 | Bit Inversions             |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q24/solution.md) |
+|  25 | Writing Numbers            |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q25/solution.md) |
+|  26 | Letter Pair Move Game      |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q26/solution.md) |
+|  27 | Maximum Building I         |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q27/solution.md) |
+|  28 | Sorting Methods            |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q28/solution.md) |
+|  29 | Cyclic Array               |   1191  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q29/solution.md) |
+|  30 | List of Sums               |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q30/solution.md) |
+
 
 ---
 
 ### Additional Problems II
 
-|  Q# | Title                   |                Solution                |
-| :-: | :---------------------- | :------------------------------------: |
-|  01 | Bouncing Ball Steps     | [Open](./AdditionalII/Q01/solution.md) |
-|  02 | Bouncing Ball Cycle     | [Open](./AdditionalII/Q02/solution.md) |
-|  03 | Knight Moves Queries    | [Open](./AdditionalII/Q03/solution.md) |
-|  04 | K Subset Sums I         | [Open](./AdditionalII/Q04/solution.md) |
-|  05 | K Subset Sums II        | [Open](./AdditionalII/Q05/solution.md) |
-|  06 | Increasing Array II     | [Open](./AdditionalII/Q06/solution.md) |
-|  07 | Food Division           | [Open](./AdditionalII/Q07/solution.md) |
-|  08 | Swap Round Sorting      | [Open](./AdditionalII/Q08/solution.md) |
-|  09 | Binary Subsequences     | [Open](./AdditionalII/Q09/solution.md) |
-|  10 | School Excursion        | [Open](./AdditionalII/Q10/solution.md) |
-|  11 | Coin Grid               | [Open](./AdditionalII/Q11/solution.md) |
-|  12 | Grid Coloring II        | [Open](./AdditionalII/Q12/solution.md) |
-|  13 | Programmers and Artists | [Open](./AdditionalII/Q13/solution.md) |
-|  14 | Removing Digits II      | [Open](./AdditionalII/Q14/solution.md) |
-|  15 | Coin Arrangement        | [Open](./AdditionalII/Q15/solution.md) |
-|  16 | Replace with Difference | [Open](./AdditionalII/Q16/solution.md) |
-|  17 | Grid Puzzle I           | [Open](./AdditionalII/Q17/solution.md) |
-|  18 | Grid Puzzle II          | [Open](./AdditionalII/Q18/solution.md) |
-|  19 | Bit Substrings          | [Open](./AdditionalII/Q19/solution.md) |
-|  20 | Reversal Sorting        | [Open](./AdditionalII/Q20/solution.md) |
-|  21 | Book Shop II            | [Open](./AdditionalII/Q21/solution.md) |
-|  22 | GCD Subsets             | [Open](./AdditionalII/Q22/solution.md) |
-|  23 | Minimum Cost Pairs      | [Open](./AdditionalII/Q23/solution.md) |
-|  24 | Same Sum Subsets        | [Open](./AdditionalII/Q24/solution.md) |
-|  25 | Mex Grid Queries        | [Open](./AdditionalII/Q25/solution.md) |
-|  26 | Maximum Building II     | [Open](./AdditionalII/Q26/solution.md) |
-|  27 | Stick Divisions         | [Open](./AdditionalII/Q27/solution.md) |
-|  28 | Stick Difference        | [Open](./AdditionalII/Q28/solution.md) |
-|  29 | Coding Company          | [Open](./AdditionalII/Q29/solution.md) |
-|  30 | Two Stacks Sorting      | [Open](./AdditionalII/Q30/solution.md) |
+|  Q# | Title                   | Task ID |                                           Solution                                           |
+| :-: | :---------------------- | :-----: | :------------------------------------------------------------------------------------------: |
+|  01 | Bouncing Ball Steps     |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q01/solution.md) |
+|  02 | Bouncing Ball Cycle     |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q02/solution.md) |
+|  03 | Knight Moves Queries    |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q03/solution.md) |
+|  04 | K Subset Sums I         |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q04/solution.md) |
+|  05 | K Subset Sums II        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q05/solution.md) |
+|  06 | Increasing Array II     |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q06/solution.md) |
+|  07 | Food Division           |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q07/solution.md) |
+|  08 | Swap Round Sorting      |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q08/solution.md) |
+|  09 | Binary Subsequences     |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q09/solution.md) |
+|  10 | School Excursion        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q10/solution.md) |
+|  11 | Coin Grid               |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q11/solution.md) |
+|  12 | Grid Coloring II        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q12/solution.md) |
+|  13 | Programmers and Artists |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q13/solution.md) |
+|  14 | Removing Digits II      |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q14/solution.md) |
+|  15 | Coin Arrangement        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q15/solution.md) |
+|  16 | Replace with Difference |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q16/solution.md) |
+|  17 | Grid Puzzle I           |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q17/solution.md) |
+|  18 | Grid Puzzle II          |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q18/solution.md) |
+|  19 | Bit Substrings          |   2115  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q19/solution.md) |
+|  20 | Reversal Sorting        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q20/solution.md) |
+|  21 | Book Shop II            |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q21/solution.md) |
+|  22 | GCD Subsets             |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q22/solution.md) |
+|  23 | Minimum Cost Pairs      |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q23/solution.md) |
+|  24 | Same Sum Subsets        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q24/solution.md) |
+|  25 | Mex Grid Queries        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q25/solution.md) |
+|  26 | Maximum Building II     |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q26/solution.md) |
+|  27 | Stick Divisions         |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q27/solution.md) |
+|  28 | Stick Difference        |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q28/solution.md) |
+|  29 | Coding Company          |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q29/solution.md) |
+|  30 | Two Stacks Sorting      |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q30/solution.md) |
+
 
 ---
 
