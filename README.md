@@ -30,179 +30,182 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 ### Introductory Problems
 
-|  Q# | Title                 |                Solution                |
-| :-: | :-------------------- | :------------------------------------: |
-|  01 | Weird Algorithm       | [Open](./Introductory/Q01/solution.md) |
-|  02 | Missing Number        | [Open](./Introductory/Q02/solution.md) |
-|  03 | Repetitions           | [Open](./Introductory/Q03/solution.md) |
-|  04 | Increasing Array      | [Open](./Introductory/Q04/solution.md) |
-|  05 | Permutations          | [Open](./Introductory/Q05/solution.md) |
-|  06 | Number Spiral         | [Open](./Introductory/Q06/solution.md) |
-|  07 | Two Knights           | [Open](./Introductory/Q07/solution.md) |
-|  08 | Two Sets              | [Open](./Introductory/Q08/solution.md) |
-|  09 | Bit Strings           | [Open](./Introductory/Q09/solution.md) |
-|  10 | Trailing Zeros        | [Open](./Introductory/Q10/solution.md) |
-|  11 | Coin Piles            | [Open](./Introductory/Q11/solution.md) |
-|  12 | Palindrome Reorder    | [Open](./Introductory/Q12/solution.md) |
-|  13 | Gray Code             | [Open](./Introductory/Q13/solution.md) |
-|  14 | Tower of Hanoi        | [Open](./Introductory/Q14/solution.md) |
-|  15 | Creating Strings      | [Open](./Introductory/Q15/solution.md) |
-|  16 | Apple Division        | [Open](./Introductory/Q16/solution.md) |
-|  17 | Chessboard and Queens | [Open](./Introductory/Q17/solution.md) |
-|  18 | Raab Game I           | [Open](./Introductory/Q18/solution.md) |
-|  19 | Mex Grid Construction | [Open](./Introductory/Q19/solution.md) |
-|  20 | Knight Moves Grid     | [Open](./Introductory/Q20/solution.md) |
-|  21 | Grid Coloring I       | [Open](./Introductory/Q21/solution.md) |
-|  22 | Digit Queries         | [Open](./Introductory/Q22/solution.md) |
-|  23 | String Reorder        | [Open](./Introductory/Q23/solution.md) |
-|  24 | Grid Path Description | [Open](./Introductory/Q24/solution.md) |
+|  Q# | Title                 | Task ID |                                           Solution                                           |
+| :-: | :-------------------- | :-----: | :------------------------------------------------------------------------------------------: |
+|  01 | Weird Algorithm       |   1068  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q01/solution.md) |
+|  02 | Missing Number        |   1083  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q02/solution.md) |
+|  03 | Repetitions           |   1069  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q03/solution.md) |
+|  04 | Increasing Array      |   1094  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q04/solution.md) |
+|  05 | Permutations          |   1070  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q05/solution.md) |
+|  06 | Number Spiral         |   1071  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q06/solution.md) |
+|  07 | Two Knights           |   1072  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q07/solution.md) |
+|  08 | Two Sets              |   1092  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q08/solution.md) |
+|  09 | Bit Strings           |   1617  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q09/solution.md) |
+|  10 | Trailing Zeros        |   1618  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q10/solution.md) |
+|  11 | Coin Piles            |   1754  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q11/solution.md) |
+|  12 | Palindrome Reorder    |   1755  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q12/solution.md) |
+|  13 | Gray Code             |   2205  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q13/solution.md) |
+|  14 | Tower of Hanoi        |   2165  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q14/solution.md) |
+|  15 | Creating Strings      |   1622  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q15/solution.md) |
+|  16 | Apple Division        |   1623  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q16/solution.md) |
+|  17 | Chessboard and Queens |   1624  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q17/solution.md) |
+|  18 | Raab Game I           |   3399  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q18/solution.md) |
+|  19 | Mex Grid Construction |   3419  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q19/solution.md) |
+|  20 | Knight Moves Grid     |   3217  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q20/solution.md) |
+|  21 | Grid Coloring I       |   3311  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q21/solution.md) |
+|  22 | Digit Queries         |   2431  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q22/solution.md) |
+|  23 | String Reorder        |   1743  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q23/solution.md) |
+|  24 | Grid Path Description |   1625  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q24/solution.md) |
+
 
 ---
 
 ### Sorting and Searching
 
-|  Q# | Title                        |                  Solution                  |
-| :-: | :--------------------------- | :----------------------------------------: |
-|  01 | Distinct Numbers             | [Open](./SortingSearching/Q01/solution.md) |
-|  02 | Apartments                   | [Open](./SortingSearching/Q02/solution.md) |
-|  03 | Ferris Wheel                 | [Open](./SortingSearching/Q03/solution.md) |
-|  04 | Concert Tickets              | [Open](./SortingSearching/Q04/solution.md) |
-|  05 | Restaurant Customers         | [Open](./SortingSearching/Q05/solution.md) |
-|  06 | Movie Festival               | [Open](./SortingSearching/Q06/solution.md) |
-|  07 | Sum of Two Values            | [Open](./SortingSearching/Q07/solution.md) |
-|  08 | Maximum Subarray Sum         | [Open](./SortingSearching/Q08/solution.md) |
-|  09 | Stick Lengths                | [Open](./SortingSearching/Q09/solution.md) |
-|  10 | Missing Coin Sum             | [Open](./SortingSearching/Q10/solution.md) |
-|  11 | Collecting Numbers           | [Open](./SortingSearching/Q11/solution.md) |
-|  12 | Collecting Numbers II        | [Open](./SortingSearching/Q12/solution.md) |
-|  13 | Playlist                     | [Open](./SortingSearching/Q13/solution.md) |
-|  14 | Towers                       | [Open](./SortingSearching/Q14/solution.md) |
-|  15 | Traffic Lights               | [Open](./SortingSearching/Q15/solution.md) |
-|  16 | Distinct Values Subarrays    | [Open](./SortingSearching/Q16/solution.md) |
-|  17 | Distinct Values Subsequences | [Open](./SortingSearching/Q17/solution.md) |
-|  18 | Josephus Problem I           | [Open](./SortingSearching/Q18/solution.md) |
-|  19 | Josephus Problem II          | [Open](./SortingSearching/Q19/solution.md) |
-|  20 | Nested Ranges Check          | [Open](./SortingSearching/Q20/solution.md) |
-|  21 | Nested Ranges Count          | [Open](./SortingSearching/Q21/solution.md) |
-|  22 | Room Allocation              | [Open](./SortingSearching/Q22/solution.md) |
-|  23 | Factory Machines             | [Open](./SortingSearching/Q23/solution.md) |
-|  24 | Tasks and Deadlines          | [Open](./SortingSearching/Q24/solution.md) |
-|  25 | Reading Books                | [Open](./SortingSearching/Q25/solution.md) |
-|  26 | Sum of Three Values          | [Open](./SortingSearching/Q26/solution.md) |
-|  27 | Sum of Four Values           | [Open](./SortingSearching/Q27/solution.md) |
-|  28 | Nearest Smaller Values       | [Open](./SortingSearching/Q28/solution.md) |
-|  29 | Subarray Sums I              | [Open](./SortingSearching/Q29/solution.md) |
-|  30 | Subarray Sums II             | [Open](./SortingSearching/Q30/solution.md) |
-|  31 | Subarray Divisibility        | [Open](./SortingSearching/Q31/solution.md) |
-|  32 | Distinct Values Subarrays II | [Open](./SortingSearching/Q32/solution.md) |
-|  33 | Array Division               | [Open](./SortingSearching/Q33/solution.md) |
-|  34 | Movie Festival II            | [Open](./SortingSearching/Q34/solution.md) |
-|  35 | Maximum Subarray Sum II      | [Open](./SortingSearching/Q35/solution.md) |
+|  Q# | Title                        | Task ID |                                             Solution                                             |
+| :-: | :--------------------------- | :-----: | :----------------------------------------------------------------------------------------------: |
+|  01 | Distinct Numbers             |   1621  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q01/solution.md) |
+|  02 | Apartments                   |   1084  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q02/solution.md) |
+|  03 | Ferris Wheel                 |   1090  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q03/solution.md) |
+|  04 | Concert Tickets              |   1091  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q04/solution.md) |
+|  05 | Restaurant Customers         |   1619  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q05/solution.md) |
+|  06 | Movie Festival               |   1629  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q06/solution.md) |
+|  07 | Sum of Two Values            |   1640  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q07/solution.md) |
+|  08 | Maximum Subarray Sum         |   1643  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q08/solution.md) |
+|  09 | Stick Lengths                |   1074  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q09/solution.md) |
+|  10 | Missing Coin Sum             |   2183  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q10/solution.md) |
+|  11 | Collecting Numbers           |   2216  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q11/solution.md) |
+|  12 | Collecting Numbers II        |   2217  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q12/solution.md) |
+|  13 | Playlist                     |   1141  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q13/solution.md) |
+|  14 | Towers                       |   1073  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q14/solution.md) |
+|  15 | Traffic Lights               |   1163  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q15/solution.md) |
+|  16 | Distinct Values Subarrays    |   3420  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q16/solution.md) |
+|  17 | Distinct Values Subsequences |   3421  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q17/solution.md) |
+|  18 | Josephus Problem I           |   2162  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q18/solution.md) |
+|  19 | Josephus Problem II          |   2163  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q19/solution.md) |
+|  20 | Nested Ranges Check          |   2168  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q20/solution.md) |
+|  21 | Nested Ranges Count          |   2169  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q21/solution.md) |
+|  22 | Room Allocation              |   1164  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q22/solution.md) |
+|  23 | Factory Machines             |   1620  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q23/solution.md) |
+|  24 | Tasks and Deadlines          |   1630  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q24/solution.md) |
+|  25 | Reading Books                |   1631  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q25/solution.md) |
+|  26 | Sum of Three Values          |   1641  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q26/solution.md) |
+|  27 | Sum of Four Values           |   1642  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q27/solution.md) |
+|  28 | Nearest Smaller Values       |   1645  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q28/solution.md) |
+|  29 | Subarray Sums I              |   1660  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q29/solution.md) |
+|  30 | Subarray Sums II             |   1661  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q30/solution.md) |
+|  31 | Subarray Divisibility        |   1662  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q31/solution.md) |
+|  32 | Distinct Values Subarrays II |   2428  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q32/solution.md) |
+|  33 | Array Division               |   1085  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q33/solution.md) |
+|  34 | Movie Festival II            |   1632  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q34/solution.md) |
+|  35 | Maximum Subarray Sum II      |   1644  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q35/solution.md) |
 
 ---
 
 ### Dynamic Programming
 
-|  Q# | Title                      |                   Solution                   |
-| :-: | :------------------------- | :------------------------------------------: |
-|  01 | Dice Combinations          | [Open](./DynamicProgramming/Q01/solution.md) |
-|  02 | Minimizing Coins           | [Open](./DynamicProgramming/Q02/solution.md) |
-|  03 | Coin Combinations I        | [Open](./DynamicProgramming/Q03/solution.md) |
-|  04 | Coin Combinations II       | [Open](./DynamicProgramming/Q04/solution.md) |
-|  05 | Removing Digits            | [Open](./DynamicProgramming/Q05/solution.md) |
-|  06 | Grid Paths I               | [Open](./DynamicProgramming/Q06/solution.md) |
-|  07 | Book Shop                  | [Open](./DynamicProgramming/Q07/solution.md) |
-|  08 | Array Description          | [Open](./DynamicProgramming/Q08/solution.md) |
-|  09 | Counting Towers            | [Open](./DynamicProgramming/Q09/solution.md) |
-|  10 | Edit Distance              | [Open](./DynamicProgramming/Q10/solution.md) |
-|  11 | Longest Common Subsequence | [Open](./DynamicProgramming/Q11/solution.md) |
-|  12 | Rectangle Cutting          | [Open](./DynamicProgramming/Q12/solution.md) |
-|  13 | Minimal Grid Path          | [Open](./DynamicProgramming/Q13/solution.md) |
-|  14 | Money Sums                 | [Open](./DynamicProgramming/Q14/solution.md) |
-|  15 | Removal Game               | [Open](./DynamicProgramming/Q15/solution.md) |
-|  16 | Two Sets II                | [Open](./DynamicProgramming/Q16/solution.md) |
-|  17 | Mountain Range             | [Open](./DynamicProgramming/Q17/solution.md) |
-|  18 | Increasing Subsequence     | [Open](./DynamicProgramming/Q18/solution.md) |
-|  19 | Projects                   | [Open](./DynamicProgramming/Q19/solution.md) |
-|  20 | Elevator Rides             | [Open](./DynamicProgramming/Q20/solution.md) |
-|  21 | Counting Tilings           | [Open](./DynamicProgramming/Q21/solution.md) |
-|  22 | Counting Numbers           | [Open](./DynamicProgramming/Q22/solution.md) |
-|  23 | Increasing Subsequence II  | [Open](./DynamicProgramming/Q23/solution.md) |
+|  Q# | Title                      | Task ID |                                              Solution                                              |
+| :-: | :------------------------- | :-----: | :------------------------------------------------------------------------------------------------: |
+|  01 | Dice Combinations          |   1633  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q01/solution.md) |
+|  02 | Minimizing Coins           |   1634  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q02/solution.md) |
+|  03 | Coin Combinations I        |   1635  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q03/solution.md) |
+|  04 | Coin Combinations II       |   1636  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q04/solution.md) |
+|  05 | Removing Digits            |   1637  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q05/solution.md) |
+|  06 | Grid Paths I               |   1638  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q06/solution.md) |
+|  07 | Book Shop                  |   1158  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q07/solution.md) |
+|  08 | Array Description          |   1746  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q08/solution.md) |
+|  09 | Counting Towers            |   2413  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q09/solution.md) |
+|  10 | Edit Distance              |   1639  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q10/solution.md) |
+|  11 | Longest Common Subsequence |   3403  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q11/solution.md) |
+|  12 | Rectangle Cutting          |   1744  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q12/solution.md) |
+|  13 | Minimal Grid Path          |   3359  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q13/solution.md) |
+|  14 | Money Sums                 |   1745  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q14/solution.md) |
+|  15 | Removal Game               |   1097  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q15/solution.md) |
+|  16 | Two Sets II                |   1093  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q16/solution.md) |
+|  17 | Mountain Range             |   3314  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q17/solution.md) |
+|  18 | Increasing Subsequence     |   1145  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q18/solution.md) |
+|  19 | Projects                   |   1140  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q19/solution.md) |
+|  20 | Elevator Rides             |   1653  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q20/solution.md) |
+|  21 | Counting Tilings           |   2181  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q21/solution.md) |
+|  22 | Counting Numbers           |   2220  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q22/solution.md) |
+|  23 | Increasing Subsequence II  |   1748  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q23/solution.md) |
 
 ---
 
 ### Graph Algorithms
 
-|  Q# | Title                |                  Solution                 |
-| :-: | :------------------- | :---------------------------------------: |
-|  01 | Counting Rooms       | [Open](./GraphAlgorithms/Q01/solution.md) |
-|  02 | Labyrinth            | [Open](./GraphAlgorithms/Q02/solution.md) |
-|  03 | Building Roads       | [Open](./GraphAlgorithms/Q03/solution.md) |
-|  04 | Message Route        | [Open](./GraphAlgorithms/Q04/solution.md) |
-|  05 | Building Teams       | [Open](./GraphAlgorithms/Q05/solution.md) |
-|  06 | Round Trip           | [Open](./GraphAlgorithms/Q06/solution.md) |
-|  07 | Monsters             | [Open](./GraphAlgorithms/Q07/solution.md) |
-|  08 | Shortest Routes I    | [Open](./GraphAlgorithms/Q08/solution.md) |
-|  09 | Shortest Routes II   | [Open](./GraphAlgorithms/Q09/solution.md) |
-|  10 | High Score           | [Open](./GraphAlgorithms/Q10/solution.md) |
-|  11 | Flight Discount      | [Open](./GraphAlgorithms/Q11/solution.md) |
-|  12 | Cycle Finding        | [Open](./GraphAlgorithms/Q12/solution.md) |
-|  13 | Flight Routes        | [Open](./GraphAlgorithms/Q13/solution.md) |
-|  14 | Round Trip II        | [Open](./GraphAlgorithms/Q14/solution.md) |
-|  15 | Course Schedule      | [Open](./GraphAlgorithms/Q15/solution.md) |
-|  16 | Longest Flight Route | [Open](./GraphAlgorithms/Q16/solution.md) |
-|  17 | Game Routes          | [Open](./GraphAlgorithms/Q17/solution.md) |
-|  18 | Investigation        | [Open](./GraphAlgorithms/Q18/solution.md) |
-|  19 | Planets Queries I    | [Open](./GraphAlgorithms/Q19/solution.md) |
-|  20 | Planets Queries II   | [Open](./GraphAlgorithms/Q20/solution.md) |
-|  21 | Planets Cycles       | [Open](./GraphAlgorithms/Q21/solution.md) |
-|  22 | Road Reparation      | [Open](./GraphAlgorithms/Q22/solution.md) |
-|  23 | Road Construction    | [Open](./GraphAlgorithms/Q23/solution.md) |
-|  24 | Flight Routes Check  | [Open](./GraphAlgorithms/Q24/solution.md) |
-|  25 | Planets and Kingdoms | [Open](./GraphAlgorithms/Q25/solution.md) |
-|  26 | Giant Pizza          | [Open](./GraphAlgorithms/Q26/solution.md) |
-|  27 | Coin Collector       | [Open](./GraphAlgorithms/Q27/solution.md) |
-|  28 | Mail Delivery        | [Open](./GraphAlgorithms/Q28/solution.md) |
-|  29 | De Bruijn Sequence   | [Open](./GraphAlgorithms/Q29/solution.md) |
-|  30 | Teleporters Path     | [Open](./GraphAlgorithms/Q30/solution.md) |
-|  31 | Hamiltonian Flights  | [Open](./GraphAlgorithms/Q31/solution.md) |
-|  32 | Knight's Tour        | [Open](./GraphAlgorithms/Q32/solution.md) |
-|  33 | Download Speed       | [Open](./GraphAlgorithms/Q33/solution.md) |
-|  34 | Police Chase         | [Open](./GraphAlgorithms/Q34/solution.md) |
-|  35 | School Dance         | [Open](./GraphAlgorithms/Q35/solution.md) |
-|  36 | Distinct Routes      | [Open](./GraphAlgorithms/Q36/solution.md) |
+|  Q# | Title                | Task ID |                                             Solution                                            |
+| :-: | :------------------- | :-----: | :---------------------------------------------------------------------------------------------: |
+|  01 | Counting Rooms       |   1192  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q01/solution.md) |
+|  02 | Labyrinth            |   1193  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q02/solution.md) |
+|  03 | Building Roads       |   1666  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q03/solution.md) |
+|  04 | Message Route        |   1667  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q04/solution.md) |
+|  05 | Building Teams       |   1668  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q05/solution.md) |
+|  06 | Round Trip           |   1669  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q06/solution.md) |
+|  07 | Monsters             |   1194  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q07/solution.md) |
+|  08 | Shortest Routes I    |   1671  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q08/solution.md) |
+|  09 | Shortest Routes II   |   1672  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q09/solution.md) |
+|  10 | High Score           |   1673  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q10/solution.md) |
+|  11 | Flight Discount      |   1195  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q11/solution.md) |
+|  12 | Cycle Finding        |   1197  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q12/solution.md) |
+|  13 | Flight Routes        |   1196  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q13/solution.md) |
+|  14 | Round Trip II        |   1678  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q14/solution.md) |
+|  15 | Course Schedule      |   1679  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q15/solution.md) |
+|  16 | Longest Flight Route |   1680  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q16/solution.md) |
+|  17 | Game Routes          |   1681  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q17/solution.md) |
+|  18 | Investigation        |   1202  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q18/solution.md) |
+|  19 | Planets Queries I    |   1750  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q19/solution.md) |
+|  20 | Planets Queries II   |   1160  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q20/solution.md) |
+|  21 | Planets Cycles       |   1751  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q21/solution.md) |
+|  22 | Road Reparation      |   1675  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q22/solution.md) |
+|  23 | Road Construction    |   1676  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q23/solution.md) |
+|  24 | Flight Routes Check  |   1682  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q24/solution.md) |
+|  25 | Planets and Kingdoms |   1683  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q25/solution.md) |
+|  26 | Giant Pizza          |   1684  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q26/solution.md) |
+|  27 | Coin Collector       |   1686  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q27/solution.md) |
+|  28 | Mail Delivery        |   1691  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q28/solution.md) |
+|  29 | De Bruijn Sequence   |   1692  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q29/solution.md) |
+|  30 | Teleporters Path     |   1693  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q30/solution.md) |
+|  31 | Hamiltonian Flights  |   1690  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q31/solution.md) |
+|  32 | Knight's Tour        |   1689  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q32/solution.md) |
+|  33 | Download Speed       |   1694  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q33/solution.md) |
+|  34 | Police Chase         |   1695  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q34/solution.md) |
+|  35 | School Dance         |   1696  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q35/solution.md) |
+|  36 | Distinct Routes      |   1711  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q36/solution.md) |
+
 
 ---
 
 ### Range Queries
 
-|  Q# | Title                         |                Solution                |
-| :-: | :---------------------------- | :------------------------------------: |
-|  01 | Static Range Sum Queries      | [Open](./RangeQueries/Q01/solution.md) |
-|  02 | Static Range Minimum Queries  | [Open](./RangeQueries/Q02/solution.md) |
-|  03 | Dynamic Range Sum Queries     | [Open](./RangeQueries/Q03/solution.md) |
-|  04 | Dynamic Range Minimum Queries | [Open](./RangeQueries/Q04/solution.md) |
-|  05 | Range Xor Queries             | [Open](./RangeQueries/Q05/solution.md) |
-|  06 | Range Update Queries          | [Open](./RangeQueries/Q06/solution.md) |
-|  07 | Forest Queries                | [Open](./RangeQueries/Q07/solution.md) |
-|  08 | Hotel Queries                 | [Open](./RangeQueries/Q08/solution.md) |
-|  09 | List Removals                 | [Open](./RangeQueries/Q09/solution.md) |
-|  10 | Salary Queries                | [Open](./RangeQueries/Q10/solution.md) |
-|  11 | Prefix Sum Queries            | [Open](./RangeQueries/Q11/solution.md) |
-|  12 | Pizzeria Queries              | [Open](./RangeQueries/Q12/solution.md) |
-|  13 | Visible Buildings Queries     | [Open](./RangeQueries/Q13/solution.md) |
-|  14 | Range Interval Queries        | [Open](./RangeQueries/Q14/solution.md) |
-|  15 | Subarray Sum Queries          | [Open](./RangeQueries/Q15/solution.md) |
-|  16 | Subarray Sum Queries II       | [Open](./RangeQueries/Q16/solution.md) |
-|  17 | Distinct Values Queries       | [Open](./RangeQueries/Q17/solution.md) |
-|  18 | Distinct Values Queries II    | [Open](./RangeQueries/Q18/solution.md) |
-|  19 | Increasing Array Queries      | [Open](./RangeQueries/Q19/solution.md) |
-|  20 | Movie Festival Queries        | [Open](./RangeQueries/Q20/solution.md) |
-|  21 | Forest Queries II             | [Open](./RangeQueries/Q21/solution.md) |
-|  22 | Range Updates and Sums        | [Open](./RangeQueries/Q22/solution.md) |
-|  23 | Polynomial Queries            | [Open](./RangeQueries/Q23/solution.md) |
-|  24 | Range Queries and Copies      | [Open](./RangeQueries/Q24/solution.md) |
-|  25 | Missing Coin Sum Queries      | [Open](./RangeQueries/Q25/solution.md) |
+|  Q# | Title                         | Task ID |                                           Solution                                           |
+| :-: | :---------------------------- | :-----: | :------------------------------------------------------------------------------------------: |
+|  01 | Static Range Sum Queries      |   1646  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q01/solution.md) |
+|  02 | Static Range Minimum Queries  |   1647  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q02/solution.md) |
+|  03 | Dynamic Range Sum Queries     |   1648  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q03/solution.md) |
+|  04 | Dynamic Range Minimum Queries |   1649  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q04/solution.md) |
+|  05 | Range Xor Queries             |   1650  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q05/solution.md) |
+|  06 | Range Update Queries          |   1651  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q06/solution.md) |
+|  07 | Forest Queries                |   1652  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q07/solution.md) |
+|  08 | Hotel Queries                 |   1143  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q08/solution.md) |
+|  09 | List Removals                 |   1749  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q09/solution.md) |
+|  10 | Salary Queries                |   1144  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q10/solution.md) |
+|  11 | Prefix Sum Queries            |   2166  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q11/solution.md) |
+|  12 | Pizzeria Queries              |   2206  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q12/solution.md) |
+|  13 | Visible Buildings Queries     |   3304  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q13/solution.md) |
+|  14 | Range Interval Queries        |   3163  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q14/solution.md) |
+|  15 | Subarray Sum Queries          |   1190  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q15/solution.md) |
+|  16 | Subarray Sum Queries II       |   3226  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q16/solution.md) |
+|  17 | Distinct Values Queries       |   1734  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q17/solution.md) |
+|  18 | Distinct Values Queries II    |   3356  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q18/solution.md) |
+|  19 | Increasing Array Queries      |   2416  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q19/solution.md) |
+|  20 | Movie Festival Queries        |   1664  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q20/solution.md) |
+|  21 | Forest Queries II             |   1739  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q21/solution.md) |
+|  22 | Range Updates and Sums        |   1735  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q22/solution.md) |
+|  23 | Polynomial Queries            |   1736  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q23/solution.md) |
+|  24 | Range Queries and Copies      |   1737  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q24/solution.md) |
+|  25 | Missing Coin Sum Queries      |   2184  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q25/solution.md) |
+
 
 ---
 
