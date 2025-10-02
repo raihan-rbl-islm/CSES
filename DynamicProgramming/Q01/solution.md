@@ -1,15 +1,4 @@
-# Dice Combinations (CSES 1633)
-
-- **Link:** https://cses.fi/problemset/task/1633
-- **Topic:** DP - 1D
-- **Difficulty:** Easy
-- **Language:** C++
-
-## Complexity
-- **Time:** `O(n * 6)` → `O(n)`
-- **Space:** `O(n)`
-
-## C++ Code (Iterative, stack-safe)
+## Implementation
 ```cpp
 #include <bits/stdc++.h>
 using namespace std;
