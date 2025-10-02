@@ -461,7 +461,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  25 | Network Renovation        |   1704  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q25/solution.md) |
 |  26 | Forbidden Cities          |   1705  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q26/solution.md) |
 |  27 | Creating Offices          |   1752  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q27/solution.md) |
-|  28 | New Flight Routes         |   1685  | [![Open](https://img.shields.io-badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q28/solution.md) |
+|  28 | New Flight Routes         |   1685  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q28/solution.md) |
 
 
 ---
