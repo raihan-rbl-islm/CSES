@@ -424,7 +424,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  04 | Permutation Prime Sums |   3423  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q04/solution.md) |
 |  05 | Chess Tournament       |   1697  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q05/solution.md) |
 |  06 | Distinct Sums Grid     |   3424  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q06/solution.md) |
-|  07 | Filling Trominos       |    —    | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q07/solution.md) |
+|  07 | Filling Trominos       |   2423  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q07/solution.md) |
 |  08 | Grid Path Construction |   2418  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q08/solution.md) |
 
 
