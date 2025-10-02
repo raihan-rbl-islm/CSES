@@ -57,8 +57,10 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  23 | String Reorder        |   1743  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q23/solution.md) |
 |  24 | Grid Path Description |   1625  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Introductory/Q24/solution.md) |
 
----
-[🔝 Back to top](#contents)
+<p align="right"><a href="#contents">Contents</a></p>
+
+
+
 ---
 
 ### Sorting and Searching
@@ -101,6 +103,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  34 | Movie Festival II            |   1632  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q34/solution.md) |
 |  35 | Maximum Subarray Sum II      |   1644  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q35/solution.md) |
 
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Dynamic Programming
@@ -131,6 +134,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  22 | Counting Numbers           |   2220  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q22/solution.md) |
 |  23 | Increasing Subsequence II  |   1748  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q23/solution.md) |
 
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Graph Algorithms
@@ -174,7 +178,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  35 | School Dance         |   1696  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q35/solution.md) |
 |  36 | Distinct Routes      |   1711  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q36/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Range Queries
@@ -207,7 +211,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  24 | Range Queries and Copies      |   1737  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q24/solution.md) |
 |  25 | Missing Coin Sum Queries      |   2184  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q25/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Tree Algorithms
@@ -231,6 +235,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  15 | Fixed-Length Paths I  |   2080  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q15/solution.md) |
 |  16 | Fixed-Length Paths II |   2081  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q16/solution.md) |
 
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Mathematics
@@ -275,7 +280,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  36 | Grundy’s Game              |   1707  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q36/solution.md) |
 |  37 | Another Game               |   1706  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q37/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### String Algorithms
@@ -304,6 +309,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  20 | Substring Order II     |   2109  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q20/solution.md) |
 |  21 | Substring Distribution |   2110  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q21/solution.md) |
 
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Geometry
@@ -327,7 +333,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  15 | Area of Rectangles          |   1741  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q15/solution.md) |
 |  16 | Robot Path                  |   1742  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q16/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Advanced Techniques
@@ -360,7 +366,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  24 | Task Assignment      |   2129  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q24/solution.md) |
 |  25 | Distinct Routes II   |   2130  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q25/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Sliding Window Problems
@@ -379,7 +385,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  10 | Sliding Window Inversions      |   3223  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q10/solution.md) |
 |  11 | Sliding Window Advertisement   |   3227  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q11/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Interactive Problems
@@ -393,7 +399,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  05 | Colored Chairs          |   3273  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q05/solution.md) |
 |  06 | Inversion Sorting       |   3140  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q06/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Bitwise Operations
@@ -412,7 +418,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  10 | SOS Bit Problem       |   1654  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q10/solution.md) |
 |  11 | And Subset Count      |   3141  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q11/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Construction Problems
@@ -428,7 +434,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  07 | Filling Trominos       |   2423  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q07/solution.md) |
 |  08 | Grid Path Construction |   2418  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q08/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Advanced Graph Problems
@@ -464,7 +470,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  27 | Creating Offices          |   1752  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q27/solution.md) |
 |  28 | New Flight Routes         |   1685  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q28/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Counting Problems
@@ -490,7 +496,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  17 | Collecting Numbers Distribution |   3157  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q17/solution.md) |
 |  18 | Functional Graph Distribution   |   2415  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q18/solution.md) |
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 ### Additional Problems I
@@ -529,7 +535,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  30 | List of Sums               |   1149  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalI/Q30/solution.md) |
 
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
 
@@ -569,6 +575,6 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  30 | Two Stacks Sorting      |   2402  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdditionalII/Q30/solution.md) |
 
 
-
+<p align="right"><a href="#contents">Contents</a></p>
 ---
 
