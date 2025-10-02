@@ -104,6 +104,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  35 | Maximum Subarray Sum II      |   1644  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SortingSearching/Q35/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Dynamic Programming
@@ -135,6 +136,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  23 | Increasing Subsequence II  |   1748  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./DynamicProgramming/Q23/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Graph Algorithms
@@ -179,6 +181,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  36 | Distinct Routes      |   1711  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./GraphAlgorithms/Q36/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Range Queries
@@ -212,6 +215,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  25 | Missing Coin Sum Queries      |   2184  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./RangeQueries/Q25/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Tree Algorithms
@@ -236,6 +240,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  16 | Fixed-Length Paths II |   2081  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./TreeAlgorithms/Q16/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Mathematics
@@ -281,6 +286,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  37 | Another Game               |   1706  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Mathematics/Q37/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### String Algorithms
@@ -310,6 +316,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  21 | Substring Distribution |   2110  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./StringAlgorithms/Q21/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Geometry
@@ -334,6 +341,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  16 | Robot Path                  |   1742  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Geometry/Q16/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Advanced Techniques
@@ -367,6 +375,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  25 | Distinct Routes II   |   2130  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedTechniques/Q25/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Sliding Window Problems
@@ -386,6 +395,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  11 | Sliding Window Advertisement   |   3227  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./SlidingWindow/Q11/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Interactive Problems
@@ -400,6 +410,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  06 | Inversion Sorting       |   3140  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Interactive/Q06/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Bitwise Operations
@@ -419,6 +430,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  11 | And Subset Count      |   3141  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Bitwise/Q11/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Construction Problems
@@ -435,6 +447,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  08 | Grid Path Construction |   2418  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Construction/Q08/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Advanced Graph Problems
@@ -471,6 +484,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  28 | New Flight Routes         |   1685  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./AdvancedGraphs/Q28/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Counting Problems
@@ -497,6 +511,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 |  18 | Functional Graph Distribution   |   2415  | [![Open](https://img.shields.io/badge/Solution-Open-0B5FFF)](./Counting/Q18/solution.md) |
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 ### Additional Problems I
@@ -536,6 +551,7 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
 
@@ -576,5 +592,6 @@ Concise, STL-first **C++** implementations for the official **CSES Problem Set**
 
 
 <p align="right"><a href="#contents">Contents</a></p>
+
 ---
 
